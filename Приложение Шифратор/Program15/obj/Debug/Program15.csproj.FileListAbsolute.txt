@@ -1,0 +1,10 @@
+W:\ScriptsC#\Program15\Program15\bin\Debug\Program15.exe.config
+W:\ScriptsC#\Program15\Program15\bin\Debug\Program15.exe
+W:\ScriptsC#\Program15\Program15\bin\Debug\Program15.pdb
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.csproj.AssemblyReference.cache
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.Form1.resources
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.Properties.Resources.resources
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.csproj.GenerateResource.cache
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.csproj.CoreCompileInputs.cache
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.exe
+W:\ScriptsC#\Program15\Program15\obj\Debug\Program15.pdb
